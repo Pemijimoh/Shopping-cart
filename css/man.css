@@ -1,0 +1,32 @@
+.bom {
+    background-color: rgb(247, 235, 247);
+    height: 100%;
+    margin: auto;
+    width: 100%;
+}
+
+.hop {
+    width:100% ;
+    padding-top: 40px; 
+    background-color: purple;
+}
+
+p{
+    margin-right: 20%;
+}
+label{
+    display: inline-block;
+    margin-left: 6rem;
+}
+
+
+.box{
+    width: 20px;
+}
+.bux{
+    margin-left: 20%;
+    background-color: rosybrown;
+}
+.col-md-2{
+    background-color: purple;
+}
